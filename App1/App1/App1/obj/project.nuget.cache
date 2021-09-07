@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3yQLWqRw4LlTRKyGK9m5npwFbAvX4hHOogMdL4MrmqvjKOuA6fAt83X4Tj5tR4tW96fWM1JjIHLecYl87focg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ryota Hara\\source\\repos\\App1\\App1\\App1\\App1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryota Hara\\.nuget\\packages\\microsoft.appcenter\\4.3.0\\microsoft.appcenter.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ryota Hara\\.nuget\\packages\\microsoft.appcenter.analytics\\4.3.0\\microsoft.appcenter.analytics.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ryota Hara\\.nuget\\packages\\microsoft.appcenter.crashes\\4.3.0\\microsoft.appcenter.crashes.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ryota Hara\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ryota Hara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ryota Hara\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
